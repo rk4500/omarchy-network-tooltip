@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "id": "archer.network",
-  "name": "My Network",
+  "id": "io.github.rk4500.archer-network",
+  "name": "Archer Network",
   "version": "1.0.0",
   "author": "Omarchy",
   "description": "Wi-Fi list and connection state",
@@ -12,7 +12,7 @@
     "barWidget": "Panel.qml"
   },
   "barWidget": {
-    "displayName": "My Network",
+    "displayName": "Archer Network",
     "description": "Wi-Fi list and connection state",
     "category": "Network",
     "allowMultiple": false
