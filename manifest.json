@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "id": "io.github.rk4500.archer-network",
-  "name": "Archer Network",
+  "id": "io.github.rk4500.network-tooltip",
+  "name": "Network Panel with Tooltip",
   "version": "1.0.0",
   "author": "Omarchy",
   "description": "Wi-Fi list and connection state",
@@ -12,7 +12,7 @@
     "barWidget": "Panel.qml"
   },
   "barWidget": {
-    "displayName": "Archer Network",
+    "displayName": "Network Panel with Tooltip",
     "description": "Wi-Fi list and connection state",
     "category": "Network",
     "allowMultiple": false
