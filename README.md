@@ -1,8 +1,8 @@
-# Archer Network
+# Network Panel with Tooltip
 
 Omarchy network panel with a hover tooltip showing SSID and signal (or interface name).
 
-A modified copy of the built-in `omarchy.network` plugin from [Omarchy](https://github.com/basecamp/omarchy) (MIT). It replaces the stock plugin when enabled; `omarchy plugin remove io.github.rk4500.archer-network` restores it.
+A modified copy of the built-in `omarchy.network` plugin from [Omarchy](https://github.com/basecamp/omarchy) (MIT). It replaces the stock plugin when enabled; `omarchy plugin remove io.github.rk4500.network-tooltip` restores it.
 
 Install: `omarchy plugin add <this repo's git URL> --enable`
 

@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "id": "io.github.rk4500.archer-network",
-  "name": "Archer Network",
+  "id": "io.github.rk4500.network-tooltip",
+  "name": "Network Panel with Tooltip",
   "version": "1.0.0",
-  "author": "Omarchy",
+  "author": "rk4500 (fork of Omarchy)",
   "description": "Wi-Fi list and connection state",
   "kinds": [
     "bar-widget"
@@ -12,12 +12,13 @@
     "barWidget": "Panel.qml"
   },
   "barWidget": {
-    "displayName": "Archer Network",
+    "displayName": "Network Panel with Tooltip",
     "description": "Wi-Fi list and connection state",
     "category": "Network",
     "allowMultiple": false
   },
   "omarchy": {
     "clonedFrom": "omarchy.network"
-  }
+  },
+  "homepage": "https://github.com/rk4500/omarchy-network-tooltip"
 }
